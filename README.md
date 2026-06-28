@@ -2,8 +2,8 @@ Netflix Content Analysis Dashboard
 
 Overview
 
-[netflix data analysis dashboard 2.pdf](https://github.com/user-attachments/files/29436118/netflix.data.analysis.dashboard.2.pdf)
 This project presents an interactive Power BI dashboard that analyzes Netflix content to uncover insights into content distribution, release trends, genres, and country-wise availability. The dashboard enables users to explore the dataset through dynamic visualizations and interactive filters.
+[netflix data analysis dashboard 2.pdf](https://github.com/user-attachments/files/29436118/netflix.data.analysis.dashboard.2.pdf)
 
 Features
 
